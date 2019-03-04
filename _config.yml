@@ -15,9 +15,9 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Desonstar - 苏州德森斯特通信技术有限公司"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+keywords:    "苏州德森斯特通信技术有限公司"
+description: "Desonstar - 苏州德森斯特通信技术有限公司"
+source_link: "https://desonstar.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
