@@ -1,7 +1,7 @@
 ---
 title: "客户合作"
 color: blue
-fa-icon: certificate
+fa-icon: headset
 bg: #ffffff 
 ---
 
