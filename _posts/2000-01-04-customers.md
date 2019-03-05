@@ -1,8 +1,7 @@
 ---
 title: "客户合作"
-color: blue
-fa-icon: headset
 bg: #ffffff 
+fa-icon: headset
 ---
 
 <style>
