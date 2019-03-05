@@ -1,6 +1,7 @@
 ---
 title: "客户合作"
-bg: #ffffff 
+bg: #ffffff
+color: green
 fa-icon: map-marker
 ---
 
