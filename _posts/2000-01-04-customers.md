@@ -1,8 +1,9 @@
 ---
 title: "客户合作"
 color: black  
-bg: white
 fa-icon: certificate
+color: black  
+bg: white
 ---
 
 <div style="text-align: center">
