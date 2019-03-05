@@ -1,8 +1,8 @@
 ---
 title: "客户合作"
-fa-icon: certificate
-bg: white
 color: black  
+bg: white
+fa-icon: certificate
 ---
 
 <div style="text-align: center">
@@ -35,15 +35,15 @@ color: black
 </a>
 
 <a href="//www.edinburgh.gov.uk/">
-   <img class="img-sponsor" alt="Edinburgh Council" src="{{ site.baseurl }}/img/5.svg" style="height: 80px;">
+   <img class="img-sponsor" alt="Edinburgh Council" src="{{ site.baseurl }}/img/6.svg" style="height: 80px;">
 </a>
 
 <a href="//www.missingmaps.org/">
-   <img class="img-sponsor" alt="Missing Maps" src="{{ site.baseurl }}/img/6.png" style="height: 80px;">
+   <img class="img-sponsor" alt="Missing Maps" src="{{ site.baseurl }}/img/7.png" style="height: 80px;">
 </a>
 
 <a href="//www.ed.ac.uk/schools-departments/global-development">
-   <img class="img-sponsor" alt="Global Development Academy" src="{{ site.baseurl }}/img/7.jpg" style="height: 80px;">
+   <img class="img-sponsor" alt="Global Development Academy" src="{{ site.baseurl }}/img/8.jpg" style="height: 80px;">
 </a>
 
 </div>
