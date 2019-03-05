@@ -1,7 +1,7 @@
 ---
 title: "客户合作"
-bg: white
 fa-icon: certificate
+bg: white
 color: black  
 ---
 
