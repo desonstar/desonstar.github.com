@@ -12,7 +12,7 @@ fa-icon: cloud
 </style>
 
 
-<div class="sponsor-session" style="text-align: center;margin-bottom:50px;">
+<div class="sponsor-session" style="text-align: center;margin-bottom:30px;">
 
 
    <img class="img-sponsor" alt="Dixons" src="{{ site.baseurl }}/img/1.png" style="height: 40px;">
@@ -22,13 +22,13 @@ fa-icon: cloud
 </div>
 
 
-<div class="sponsor-session" style="text-align: center;margin-bottom:50px;">
+<div class="sponsor-session" style="text-align: center;margin-bottom:30px;">
    <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height: 80px;">
 </div>
 
 
 
-<div class="sponsor-session" style="text-align: center;margin-bottom:20px;">
+<div class="sponsor-session" style="text-align: center;margin-bottom:10px;">
 
    <img class="img-sponsor" alt="Amey" src="{{ site.baseurl }}/img/3.png" style="height: 80px;">
 
