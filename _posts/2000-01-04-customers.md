@@ -2,7 +2,7 @@
 title: "客户合作"
 bg: #ffffff
 color: green
-fa-icon: map-marker
+fa-icon: cloud
 ---
 
 <style>
