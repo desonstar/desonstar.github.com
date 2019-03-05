@@ -6,12 +6,12 @@ bg: #ffffff
 ---
 
 
-<div style="text-align: center;margin-bottom:20px;">
+<div style="text-align: center;margin-bottom:50px;">
 
 <style>
     a {
         text-decoration: none!important;
-        margin:40px!important;
+        margin:50px!important;
     }
 </style>
 
@@ -27,7 +27,7 @@ bg: #ffffff
 </div>
 
 
-<div style="text-align: center;margin-bottom:20px;">
+<div style="text-align: center;margin-bottom:50px;">
 <a href="#">
    <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height: 80px;">
 </a>
@@ -40,7 +40,7 @@ bg: #ffffff
 <style>
     a {
         text-decoration: none!important;
-        margin:30px!important;
+        margin:50px!important;
     }
 </style>
 
