@@ -9,6 +9,7 @@ bg: #ffffff
 <style>
     a {
         text-decoration: none!important;
+        margin:20px!important;
     }
 </style>
 
