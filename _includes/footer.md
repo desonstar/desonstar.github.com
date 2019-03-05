@@ -1,1 +1,1 @@
-Desonstar, Inc
+Desonstar Technology CO., LTD
