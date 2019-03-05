@@ -1,7 +1,7 @@
 ---
 title: "客户合作"
 bg: #ffffff 
-fa-icon: headset
+fa-icon: map-marker
 ---
 
 <style>
