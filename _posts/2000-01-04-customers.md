@@ -1,5 +1,6 @@
 ---
 title: "客户合作"
+color: purple
 fa-icon: certificate
 bg: #ffffff 
 ---
