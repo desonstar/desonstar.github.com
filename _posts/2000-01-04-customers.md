@@ -5,7 +5,6 @@ fa-icon: certificate
 bg: #ffffff 
 ---
 
-<div style="text-align: center">
 <style>
     a {
         text-decoration: none!important;
@@ -13,6 +12,8 @@ bg: #ffffff
     }
 </style>
 
+
+<div style="text-align: center;margin-bottom:20px;">
 <a href="#">
    <img class="img-sponsor" alt="Dixons" src="{{ site.baseurl }}/img/1.png" style="height: 40px;">
 </a>
@@ -23,7 +24,7 @@ bg: #ffffff
 
 </div>
 
-<div style="text-align: center">
+<div style="text-align: center;margin-bottom:20px;">
 
 <a href="#">
    <img class="img-sponsor" alt="Amey" src="{{ site.baseurl }}/img/3.png" style="height: 80px;">
@@ -36,7 +37,7 @@ bg: #ffffff
 </div>
 
 
-<div style="text-align: center">
+<div style="text-align: center;margin-bottom:20px;">
 <a href="#">
    <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height: 80px;">
 </a>
