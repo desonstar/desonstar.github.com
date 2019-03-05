@@ -1,8 +1,8 @@
 ---
 title: "客户合作"
 bg: #ffffff
-color: green
-fa-icon: handshake
+color: orange
+fa-icon: cloud
 ---
 
 <style>
