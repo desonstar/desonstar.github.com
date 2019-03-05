@@ -8,6 +8,7 @@ fa-icon: cloud
 <style>
     .sponsor-session img {
         margin:50px!important;
+        max-width:80%!important;
     }
 </style>
 
@@ -23,7 +24,7 @@ fa-icon: cloud
 
 
 <div class="sponsor-session" style="text-align: center;margin-bottom:30px;">
-   <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height: 80px;">
+   <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height:80px;width:auto;">
 </div>
 
 
