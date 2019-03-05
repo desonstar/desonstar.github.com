@@ -24,7 +24,7 @@ fa-icon: cloud
 
 
 <div class="sponsor-session" style="text-align: center;margin-bottom:30px;">
-   <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height:80px;width:auto;">
+   <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="width:auto;">
 </div>
 
 
