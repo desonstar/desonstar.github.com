@@ -6,6 +6,11 @@ bg: #ffffff
 ---
 
 <div style="text-align: center">
+<style>
+    a {
+        text-decoration: none!important;
+    }
+</style>
 
 <a href="#">
    <img class="img-sponsor" alt="Dixons" src="{{ site.baseurl }}/img/1.png" style="height: 40px;">
