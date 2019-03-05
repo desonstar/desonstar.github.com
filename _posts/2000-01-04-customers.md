@@ -5,15 +5,15 @@ fa-icon: certificate
 bg: #ffffff 
 ---
 
-
-<div style="text-align: center;margin-bottom:50px;">
-
 <style>
-    a {
+    .sponsor-session a {
         text-decoration: none!important;
         margin:50px!important;
     }
 </style>
+
+
+<div class="sponsor-session" style="text-align: center;margin-bottom:50px;">
 
 
 <a href="#">
@@ -27,7 +27,7 @@ bg: #ffffff
 </div>
 
 
-<div style="text-align: center;margin-bottom:50px;">
+<div class="sponsor-session" style="text-align: center;margin-bottom:50px;">
 <a href="#">
    <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height: 80px;">
 </a>
@@ -35,14 +35,7 @@ bg: #ffffff
 
 
 
-<div style="text-align: center;margin-bottom:20px;">
-
-<style>
-    a {
-        text-decoration: none!important;
-        margin:50px!important;
-    }
-</style>
+<div class="sponsor-session" style="text-align: center;margin-bottom:20px;">
 
 
 <a href="#">
