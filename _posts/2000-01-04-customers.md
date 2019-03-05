@@ -31,20 +31,7 @@ bg: white
 </div>
 <div style="text-align: center">
 
-<a href="//www.msf.org">
+<a href="#">
    <img class="img-sponsor" alt="MSF" src="{{ site.baseurl }}/img/5.png" style="height: 120px;">
 </a>
-
-<a href="//www.edinburgh.gov.uk/">
-   <img class="img-sponsor" alt="Edinburgh Council" src="{{ site.baseurl }}/img/6.svg" style="height: 80px;">
-</a>
-
-<a href="//www.missingmaps.org/">
-   <img class="img-sponsor" alt="Missing Maps" src="{{ site.baseurl }}/img/7.png" style="height: 80px;">
-</a>
-
-<a href="//www.ed.ac.uk/schools-departments/global-development">
-   <img class="img-sponsor" alt="Global Development Academy" src="{{ site.baseurl }}/img/8.jpg" style="height: 80px;">
-</a>
-
 </div>
