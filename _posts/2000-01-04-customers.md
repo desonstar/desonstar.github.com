@@ -1,6 +1,6 @@
 ---
 title: "客户合作"
-bg: #ffffff
+bg: purewhite
 color: orange
 fa-icon: cloud
 ---
