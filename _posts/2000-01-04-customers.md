@@ -2,7 +2,7 @@
 title: "客户合作"
 bg: purewhite
 color: orange
-fa-icon: cloud
+fa-icon: handshake 
 ---
 
 <style>
@@ -10,7 +10,17 @@ fa-icon: cloud
         margin:50px!important;
         max-width:80%!important;
     }
+
+    #customers .fa-stack {
+        color:#5c6192;
+    }
+
+    #customers h5.icon-title {
+        color:#5c6192;
+    }
+
 </style>
+
 
 
 <div class="sponsor-session" style="text-align: center;margin-bottom:30px;">
