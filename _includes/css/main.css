@@ -60,8 +60,9 @@ img {
 
 hr {
   margin:60px auto;
-  width:50%;
-  border-color: {{ site.colors.black }};
+  width:90%;
+/*  border-color: {{ site.colors.black }};*/
+  border-color: rgba(100,100,100,0.15);
 }
 
 .container { word-wrap: break-word; }
