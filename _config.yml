@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Desonstar - 苏州德森斯特通信技术有限公司"
+title:       "Tech"
 keywords:    "苏州德森斯特通信技术有限公司"
 description: "Desonstar - 苏州德森斯特通信技术有限公司"
 source_link: "https://desonstar.github.io/"
