@@ -1,5 +1,5 @@
 
-$.extend($.easing,
+$.extend($.easing, 
 {
     def: 'easeOutQuad',
     easeInOutExpo: function (x, t, b, c, d) {
